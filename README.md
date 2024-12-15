@@ -2,7 +2,7 @@
 local player = game.Players.LocalPlayer
 local character = player.Character
 
--- Função que atualiza a posição da névoa
+
 local function updateNevoa()
 print("Atualizando névoa...")
 local nevoa = Instance.new("ParticleEmitter")
